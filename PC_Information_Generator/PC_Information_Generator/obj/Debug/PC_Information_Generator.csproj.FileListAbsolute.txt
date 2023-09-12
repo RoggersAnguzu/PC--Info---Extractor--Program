@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\PC_Information_Generator\PC_Information_Generator\bin\Debug\PC_Information_Generator.exe.config
+C:\Users\Admin\source\repos\PC_Information_Generator\PC_Information_Generator\bin\Debug\PC_Information_Generator.exe
+C:\Users\Admin\source\repos\PC_Information_Generator\PC_Information_Generator\bin\Debug\PC_Information_Generator.pdb
+C:\Users\Admin\source\repos\PC_Information_Generator\PC_Information_Generator\obj\Debug\PC_Information_Generator.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\PC_Information_Generator\PC_Information_Generator\obj\Debug\PC_Information_Generator.Form1.resources
+C:\Users\Admin\source\repos\PC_Information_Generator\PC_Information_Generator\obj\Debug\PC_Information_Generator.Properties.Resources.resources
+C:\Users\Admin\source\repos\PC_Information_Generator\PC_Information_Generator\obj\Debug\PC_Information_Generator.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\PC_Information_Generator\PC_Information_Generator\obj\Debug\PC_Information_Generator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\PC_Information_Generator\PC_Information_Generator\obj\Debug\PC_Information_Generator.exe
+C:\Users\Admin\source\repos\PC_Information_Generator\PC_Information_Generator\obj\Debug\PC_Information_Generator.pdb
